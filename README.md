@@ -7,4 +7,4 @@ Projeto responsivo de uma cafeteria usando majoritariamente HTML, CSS e JS. Proj
 
 ## Responsividade
 
-![Output sample] (https://github.com/RanielyFreitas/Cafeteria-responsiva/blob/main/images/bandicam%202021-12-17%2020-44-21-063.gif)
+![Output sample](https://github.com/RanielyFreitas/Cafeteria-responsiva/blob/main/images/bandicam%202021-12-17%2020-44-21-063.gif)
